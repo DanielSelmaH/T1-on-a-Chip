@@ -1,1 +1,2 @@
 # T1-on-a-Chip
+⚠️ Notice: This repository contains the beta version of the analysis pipeline developed for the thesis *"T1 Transitions in Confined Epithelia: A 1D Thermodynamic Approach to Tissue Plasticity in Healthy, Carcinoma, and Metastatic In Vitro Models"* (Daniel Selma-Herrador 2026). The core mathematical modules are functional, but the GUI wrapper and generalized documentation are currently under active development. A stable v1.0 release is planned for Spring 2027.
